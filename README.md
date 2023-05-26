@@ -1,62 +1,54 @@
 # 02_test_analysis
-Descriptive Statistics Clustering Segmentation Profiling
-t-Test Analysis
 
-Evaluation of the Results:
-Working with KPI’s
+## Descriptive Statistics
+The simplest form of descriptive analytics would be a historical perspective on company performance such as sales, turnover, churn, finances, etc
 
-Recommendations:
- Business Analytics Process (overall & next steps)
- Managerial Decision- Making Process (overall & next steps)
+### Goals:
+1. Analysis of historical data Identification of patterns Identification of trends
+2. Identification of structure in the data KPI analysis
+3. Frequency analysis
+4. Root cause of failure
 
+#### Answers to Questions:
+1. How much was sold in a market or region? What was the revenue last Quarter/Year? Where is the lowest productivity?
+2. What are our customer segments? Why things are happening?
+3. Who are my best customers?
+4. What is the difference between customers?
 
-AD571 Business Analytics Foundations © 2023 Dr. Vladimir Zlatev	4
- 
- 	   
-
-Simplest form of descriptive analytics would be a historical perspective on company performance such as sales, turnover, churn, finances, etc
+### Standard Tools
+1. Reports 
+2. Dashboards 
+3. Drill-Down Visualization
+4. Business Intelligence Platform
+5. Spreadsheets Statistical Software
 
 ### Statistical Methods
+1. Variation
+2. Central Tendency 
+3. Distributions 
+4. Correlations
+5. Exploratory Factor Analysis 
+6. Principal Component Analysis 
+7. Trend Analysis
+8. Cluster Analysis
+9. Descriptive Statistics 
+10. Normality Analysis 
+11. Homogeneity Analysis 
+12. Statistical Inference 
+13. Hierarchical Cluster Analysis 
+14. Sentiment Analysis 
+15. Segmentation Analysis
 
+### 4 C’s of Descriptive Analytics:
+1.	Category (Categorize)
+2.	Characteristic (Characterize)
+3.	Consolidation (Consolidate)
+4.	Classification (Classify)
 
- 
-Variation
-Central Tendency Distributions Correlations
-Exploratory Factor Analysis 
-Principal Component Analysis 
-Trend Analysis
-Cluster Analysis
- 
-Descriptive Statistics 
-1. Normality Analysis 
-2. Homogeneity Analysis 
-3. Statistical Inference 
-4. Hierarchical Cluster Analysis 
-5. Sentiment Analysis 
-6. Segmentation Analysis
- 
- 	 	 
+Large Standard Deviation vs Small Standard Deviation
+Strong Positive Correlation vs Strong Negative Correlation
 
-
- 
- 	   
-
-Large Standard Deviation	Small Standard Deviation
- 
- 	 	
-
-Strong Positive Correlation	Strong Negative Correlation
-Source: https://community.rstudio.com	Source: https://community.rstudio.com
-
- 
- 	   
-
-
-
-
-
-
-
+## IBM use case
 
 Although descriptive analytics is important to
 development of answers to some questions,
@@ -66,314 +58,16 @@ serves as a precursor to predictive analytics.
 
 The goal is to leverage past information to forecast
 possible future outcomes.
- 
- 	   
 
 
+## IBM Benefittlng from analytics: Increased asset utilization
 
+The Dow Chemical Company sought to Increase facility utilization across its office and lab space while improving capita) planning, real estate lease management, operations, facility maintenance and energy consumption on a global basis. Using descriptive analytics, Dow was able to produce reliable data for decisions that helped the company identify under-utilized.
+space, achieve a 20 percent increase in facility use and generate a savings of
+approximately USD04 million annually via space consolidation.
 
+By examining key metrics and key performance indicators of energy use or vehicle maintenance, for example, descriptive analytics can produce indicators such as cost per square foot, kilowatt hours per person or mean time between failures for specific asset issues. By combining information from different. often disconnected sources and then comparing and contrasting data. descriptive analytics can provide a
+comprehensive view and context for what has happened, as well as current asset status.
 
 
 
-
-
- 
-Based on sampling, is there a statistically significant difference between a group before and after exposure to a manipulation?
- 
-Based on sampling, is there a statistically significant difference between 2 groups?
- 
-
-
-
-Think of a few examples of interest to you…
- 
- 	 	 
-
-
-
-
-
-
-
-
- 
- 	 	 
-
- 
-
-
-
-Source: https://stats.stackexchange.com
- 
- 	 	 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Identification of communities in
-social networks
-
-
-
-
-
-
-
-http://hastac.org
- 
- 	 	 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-http://searchenginemarketingland.com
- 
- 	 	 
- 
-
-http://researchgate.net
- 
- 	 	 
-
- 
-
-
-
-
-Types of Clustering:
-
-1.	Hierarchical Clustering – Useful for organization data and the tree can be stopped at any level.
-2.	Distribution-Based Clustering – Probability of belonging to a cluster decreases with distance from center.
-3.	Density Based Clustering – High density of points are placed into clusters. Useful for low dimensional data
-4.	Centroid Based Clustering – High efficiency and simpler clustering process but not the best when there are outliers.
-
-
-
-1	3	4
-
-
-Source: https://cran.r-project.org
-
-
-Source: https://cran.r-project.org
-Source: https://cran.r-project.org
- 
- 	 	 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
- 
- 	 	 
- 
- 	 	 
-
-
-
-
-
-
-
-
-
- 
- 	 	 
-
-
-
-Please select just one of the bullet points listed below.
-
-•	Discuss the benefits of the different descriptive analytics techniques and how they can be integrated into the decision process
-•	Discuss the most useful dashboard elements or visualizations in your profession
-•	Discuss the meaning of Business Intelligence and its relevance to descriptive analytics
-•	Explain the significance of descriptive analytics to your field of work
-•	Discuss the possible applications of tools from Lectures 5 and 6
-•	Discuss topics of your choice from Lecture 5 and Lecture 6
- 
- 	 	 
-
-Quiz 3 consists of 10 multiple choice and true-false questions.
-
-Quiz 3 will cover information from the
-	Online lecture notes (Lecture 05 and Lecture 06),
-	Evans Chapter 4 and Chapter 5
-
-The quiz is open-book.
-
-Format
-	You will have 30 minutes to complete the quiz. There is a clock in the upper right corner of the screen keeping time for the exam.
-	You can take the quiz only once.
-	Each question will be delivered one at a time.
-	You can revisit the questions and change your answers as many times as you want before submitting the exam.
- 
- 	 	 
-Questions are located at the end of Chapter 4
-Section: Problems and Exercises
- 
-
-
-Application of Descriptive Analytics
-
-
-Assignment 3: Descriptive Analytics
-
- 
-Assignment 3 Objective: Prepare a managerial report, starting with an executive summary; expected length up to 3-4 pages APA format, excluding cover
-page, table of content, and appendixes.
-
-1.	Provide several descriptive statistics for real estate sales in your neighborhood. Include:
- 
-LOCATION OF THE
-INFORMATION AND SOFTWARE
-
-Course Website
- 
-a.	The total number of sales in your neighborhood since 2009
-b.	The mean sale price and gross square footage for residential properties in
-your neighborhood since 2009
-c.	A five-number summary for both sale price and gross square footage for residential properties in your neighborhood since 2009
-d.	The proportion of sales of residential, commercial, mixed, and other properties in your neighborhood since 2009
-e.	The standard deviation of sale prices for residential properties in your
-neighborhood since 2009
-f.	The correlation between sale price and gross square feet for residential properties in your neighborhood since 2009
-2.	Perform k-means clustering, comparing your neighborhood to other neighborhoods.
-Choose at least 3 of the following KPI’s
-a.	Median Sale Price for residential properties since 2009
-b.	Number of sales for residential properties since 2009
-c.	Standard deviation of sales of residential properties since 2009
-d.	Proportion of residential sales since 2009
-e.	Price of 1 gross square foot of residential real estate since 2009
-3.	Choose one other neighborhood, and test the hypothesis that, starting in 2009, the average residential property costs more, less, or a different amount in your neighborhood (Note: this requires a t-test.)
-4.	Write 3-4 pages summarizing your findings with a focus on the output, interpretation of the output, and what the insights mean for our decision-making process.
- 
-
-
-
-
-
-
-
-
-Tutorials Section
- 
-
-Metropolitan College, AD571 Business Analytics Foundations	Business Running Case: New York City Real Estate	25
- 
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-27
